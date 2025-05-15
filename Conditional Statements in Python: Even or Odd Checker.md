@@ -13,13 +13,13 @@ To write a Python program to check whether the given number is *even* or *odd* u
 
 ## 🧾 Program
 
-
+```
 number = int(input())
 if number % 2 == 0:
     print("EVEN")
 else:
     print("ODD")
-
+```
 
 ## Output
 
